@@ -1,0 +1,35 @@
+span {
+   text-transform: capitalize; 
+}
+
+li {
+    list-style: none;
+}
+
+.bg-rojo {
+    color: red
+}
+
+.bg-amarillo {
+    color: yellow
+}
+
+.bg-azul {
+    color: blue
+}
+
+.bg-verde {
+    color: green
+}
+
+.bg-naranja {
+    color: orange
+}
+
+.bg-gris {
+    color: grey
+}
+
+.bg-rosa {
+    color: pink;
+}
