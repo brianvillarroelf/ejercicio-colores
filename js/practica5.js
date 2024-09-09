@@ -43,6 +43,7 @@ const loadColor = () => {
 
 const createColor = () => {
     let color = document.getElementById('color').value;
+    console.log("Cambio para subir a github");
     if (verifyColor(color)) {
         let colors = JSON.parse(localStorage.getItem('colors')) || [];
         colors.push(color.toLowerCase());
